@@ -1,5 +1,5 @@
 
-## 🧑🏻‍💻 Reconhecimento facial com React e FastAPi
+## 🧑🏻‍💻 Reconhecimento facial com React e FaceAPI
 
 Reconhecimento facial que capta as expressões e emoções dos seus usuário.
 
