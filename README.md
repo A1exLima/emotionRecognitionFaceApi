@@ -30,19 +30,6 @@ As seguintes tecnologias foram empregadas na criação deste projeto:
 
 * Você precisará carregar os modelos do TensorFlow usando a FaceAPI.
 * Os modelos já estão no repositório no caminho /public/models.
-* Em seguida, você irá fazer a detecção do rosto usando o método correspondente da FaceAPI.
-* Usar o método da FaceAPI que "desenha" o a captura na tela.
-* O desenho será feito em um < canvas > que estará sobreposto ao vídeo.
-* Capturar a expressão mais provável da face detectada para que ela seja utilizada no card de resultado da aplicação.
-* Não se esqueça que a detecção deve ocorrer em tempo real, isto é, deverá ocorrer a cada X segundos (ou milissegundos, como preferir).
-  
-#### Dicas
-
-* Tire as dúvidas de uso na documentação Reconhecendo Expressões;
-* Após a captura é necessário desenhar o resultado no canvas;
-* Tire as dúvidas de uso na documentação Exibindo Resultados;
-* Use exemplos da documentação para melhor entendimento sobre a FaceAPI, na documentação tem alguns para melhor entendimento.
-* Exiba o nome da expressão captada pela webcam do usuário acordo com a expressão: Feliz, Triste, Bravo, Surpreso, Medo ou Enjoado.
 
 ## 🚀 Como utilizar
 
