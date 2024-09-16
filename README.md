@@ -2,12 +2,15 @@
 ## 🧑🏻‍💻 Reconhecimento facial com React e FastAPi
 
 Reconhecimento facial que capta as expressões e emoções dos seus usuário.
-* Acesse: https://emotionrecognitionfaceapi.netlify.app
+
+* Acesse: <https://emotionrecognitionfaceapi.netlify.app>
 
 Neste projeto prático, foi usado tecnologias como o React com Typescript, Vite, styled-components e a Api FaceApi, que é uma biblioteca JavaScript de código aberto construída com base no famoso TensorFlow. Nessa aplicação, você poderá ver em tempo real, por meio de sua webcam, como as expressões faciais se relacionam com diferentes emoções, como felicidade, tristeza, surpresa e raiva.
 
-<img width="400" src="public/page.png"> 
-<img width="400" height="254" src="public/example.gif"> 
+<p align="start">
+  <img width="400" src="public/page.png">
+  <img width="400" height="254" src="public/example.gif">
+</p>
 
 ## 📄 Tecnologias
 
