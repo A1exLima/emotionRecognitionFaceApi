@@ -25,9 +25,6 @@ As seguintes tecnologias foram empregadas na criação deste projeto:
 ## 🔨 Requisitos
 
 * Utilize a Media Stream API do browser para habilitar o uso da sua webcam.
-
-#### Existem alguns passos para que a FaceAPI funcione corretamente
-
 * Você precisará carregar os modelos do TensorFlow usando a FaceAPI.
 * Os modelos já estão no repositório no caminho /public/models.
 
